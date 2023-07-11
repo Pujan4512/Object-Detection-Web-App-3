@@ -1,0 +1,15 @@
+canvas{
+    background-color: gray;
+    border: 5px dashed blue;
+    border-color: green;
+    box-shadow: 5px 5px 5px gray;
+}
+body{
+    background-size: cover;
+}
+#home{
+    bottom: 5;
+    position: fixed;
+    width: 100%;
+    line-height: 2;
+}
